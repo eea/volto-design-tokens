@@ -19,7 +19,14 @@
 
 ## Features
 
-Demo GIF
+Provides the following [EEA design system tokens](https://eea.github.io/):
+   * borders
+   * colors
+   * fonts
+   * shadows
+   * shapes
+   * sizes
+   * z-index
 
 ## Getting started
 
