@@ -30,9 +30,22 @@ Provides the following [EEA design system tokens](https://eea.github.io/):
 
 ## Getting started
 
+### Try volto-design-tokens with Docker
+
+      git clone https://github.com/eea/volto-design-tokens.git
+      cd volto-design-tokens
+      make
+      make start
+
+Go to http://localhost:3000
+
 ### Add volto-design-tokens to your Volto project
 
 1. Make sure you have a [Plone backend](https://plone.org/download) up-and-running at http://localhost:8080/Plone
+
+   ```Bash
+   docker compose up backend
+   ```
 
 1. Start Volto frontend
 
