@@ -3,16 +3,16 @@
 [![Releases](https://img.shields.io/github/v/release/eea/volto-design-tokens)](https://github.com/eea/volto-design-tokens/releases)
 
 [![Pipeline](https://ci.eionet.europa.eu/buildStatus/icon?job=volto-addons%2Fvolto-design-tokens%2Fmaster&subject=master)](https://ci.eionet.europa.eu/view/Github/job/volto-addons/job/volto-design-tokens/job/master/display/redirect)
-[![Lines of Code](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-design-tokens-master&metric=ncloc)](https://sonarqube.eea.europa.eu/dashboard?id=volto-design-tokens-master)
-[![Coverage](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-design-tokens-master&metric=coverage)](https://sonarqube.eea.europa.eu/dashboard?id=volto-design-tokens-master)
-[![Bugs](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-design-tokens-master&metric=bugs)](https://sonarqube.eea.europa.eu/dashboard?id=volto-design-tokens-master)
-[![Duplicated Lines (%)](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-design-tokens-master&metric=duplicated_lines_density)](https://sonarqube.eea.europa.eu/dashboard?id=volto-design-tokens-master)
+[![Lines of Code](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-design-tokens&metric=ncloc)](https://sonarqube.eea.europa.eu/dashboard?id=volto-design-tokens)
+[![Coverage](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-design-tokens&metric=coverage)](https://sonarqube.eea.europa.eu/dashboard?id=volto-design-tokens)
+[![Bugs](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-design-tokens&metric=bugs)](https://sonarqube.eea.europa.eu/dashboard?id=volto-design-tokens)
+[![Duplicated Lines (%)](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-design-tokens&metric=duplicated_lines_density)](https://sonarqube.eea.europa.eu/dashboard?id=volto-design-tokens)
 
 [![Pipeline](https://ci.eionet.europa.eu/buildStatus/icon?job=volto-addons%2Fvolto-design-tokens%2Fdevelop&subject=develop)](https://ci.eionet.europa.eu/view/Github/job/volto-addons/job/volto-design-tokens/job/develop/display/redirect)
-[![Lines of Code](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-design-tokens-develop&metric=ncloc)](https://sonarqube.eea.europa.eu/dashboard?id=volto-design-tokens-develop)
-[![Coverage](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-design-tokens-develop&metric=coverage)](https://sonarqube.eea.europa.eu/dashboard?id=volto-design-tokens-develop)
-[![Bugs](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-design-tokens-develop&metric=bugs)](https://sonarqube.eea.europa.eu/dashboard?id=volto-design-tokens-develop)
-[![Duplicated Lines (%)](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-design-tokens-develop&metric=duplicated_lines_density)](https://sonarqube.eea.europa.eu/dashboard?id=volto-design-tokens-develop)
+[![Lines of Code](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-design-tokens&branch=develop&metric=ncloc)](https://sonarqube.eea.europa.eu/dashboard?id=volto-design-tokens&branch=develop)
+[![Coverage](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-design-tokens&branch=develop&metric=coverage)](https://sonarqube.eea.europa.eu/dashboard?id=volto-design-tokens&branch=develop)
+[![Bugs](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-design-tokens&branch=develop&metric=bugs)](https://sonarqube.eea.europa.eu/dashboard?id=volto-design-tokens&branch=develop)
+[![Duplicated Lines (%)](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-design-tokens&branch=develop&metric=duplicated_lines_density)](https://sonarqube.eea.europa.eu/dashboard?id=volto-design-tokens&branch=develop)
 
 
 [Volto](https://github.com/plone/volto) Design Tokens
