@@ -349,8 +349,10 @@ pipeline {
           allOf {
             not { environment name: 'CHANGE_ID', value: '' }
             environment name: 'CHANGE_TARGET', value: 'develop'
+            environment name: 'SKIP_TESTS', value: ''
           }
           allOf {
+            environment name: 'SKIP_TESTS', value: ''
             environment name: 'CHANGE_ID', value: ''
             branch 'develop'
             not { changelog '.*^Automated release [0-9\\.]+$' }
