@@ -1,0 +1,7 @@
+{
+  "title": "Design Tokens",
+  "frontend_addon_name": "volto-design-tokens",
+  "description": "@eeacms/volto-design-tokens: Volto add-on",
+  "volto_version": "19.3.0",
+  "__template__": "frontend_addon"
+}
